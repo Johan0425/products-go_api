@@ -1,4 +1,4 @@
-# Go Products API - Microservices Architecture
+# PRODUCTS API IN GO
 
 A production-ready microservices application built with Go, implementing CRUD operations for product management using a distributed architecture pattern.
 
@@ -600,6 +600,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Maintained by**: Your Name  
-**Repository**: <https://github.com/yourusername/go-products-api>  
-**Issues**: <https://github.com/yourusername/go-products-api/issues>
